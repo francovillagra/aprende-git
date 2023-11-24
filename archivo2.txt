@@ -1,5 +1,9 @@
 chanchito feliz
 chanchito feliz
+<<<<<<< HEAD
 chanchito vacaciones
 Felipe
 chanchito happy2
+=======
+chanchito feliz de la ramita
+>>>>>>> ramita
