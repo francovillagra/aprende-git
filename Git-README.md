@@ -33,7 +33,7 @@ git config --global core.editor "code --wait"
 git config --global -e
 git config --global core.autocrlf true
 ```
-:tw-1f50e: Para indagar aún más en git, usamos:
+- Para indagar aún más en git, usamos:
 ```
 git config -h
 ```
