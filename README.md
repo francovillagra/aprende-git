@@ -1,5 +1,4 @@
-# Aprende GIT :tw-1f4da:
-
+# Aprende GIT:
 <p>
 Algunos de los temas aprendidos:
 </p>
@@ -80,7 +79,6 @@ ls -a
 ```
 ##### Agregando cambios a Stage:
 
-```
 - Abrimos el editor de texto: Code .
 - Creamos un archivo, puede ser cualquier extensión, en este caso, creé el archivo1.txt
 - Escribimos en el editor de texto, guardamos, volvemos a la terminal y escribimos: 
@@ -93,9 +91,8 @@ git add . (el punto lo que hará, será agregar todos los archivos que aparezcan
 - En este caso, el que utilizamos es git add archivo1.txt
 Nuevamente escribimos: git status (Estado actual de nuestro repositorio), en este punto, nuestro archivo aparece en la terminal de color verde con la siguiente leyenda: Changes to be committed (cambios listos para ser comprometidos) new file: archivo1.txt
 - Si quisiera agregar mas de un archivo, debo escribir: git add archivo1.txt (espacio) y el nombre del siguiente archivo.
-```
 
-:tw-1f4e2: Cada vez que se modifica el texto dentro del editor de códigos, se escribe en la terminal:
+- Cada vez que se modifica el texto dentro del editor de códigos, se escribe en la terminal:
 ```
 git status
 git add
