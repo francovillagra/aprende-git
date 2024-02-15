@@ -19,7 +19,7 @@ Algunos de los temas aprendidos:
 
 **Entre otros comandos**
 
-## Comandos en acción :tw-1f680:
+## Comandos en acción:
 #####  - CONFIGURACIÓN INICIAL GIT:
 
 ```
